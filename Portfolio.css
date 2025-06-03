@@ -257,28 +257,28 @@ h1{
         border-radius: 10px;
     }
     .html{
-            animation: html 1s ease-out forwards;
+            animation: html 5s ease-out forwards;
         }
     .tail{
-         animation: tail 1s ease-out forwards;
+         animation: tail 5s ease-out forwards;
         }
     .java{
-        animation: java 1s ease-out forwards;
+        animation: java 5s ease-out forwards;
         }
     .express{
-        animation: express 1s ease-out forwards;
+        animation: express 5s ease-out forwards;
         }
     .react{
-        animation: react 1s ease-out forwards;
+        animation: react 5s ease-out forwards;
         }
     .node{
-        animation: node 1s ease-out forwards;
+        animation: node 5s ease-out forwards;
         }
     .mongo{
-        animation: mongo 1s ease-out forwards;
+        animation: mongo 5s ease-out forwards;
         }
     .data{
-        animation: data 1s ease-out forwards;
+        animation: data 5s ease-out forwards;
         }
         @keyframes html{
             0%{
